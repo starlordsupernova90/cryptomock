@@ -1,0 +1,5 @@
+{
+	"path": {
+		"responses": "mocker/responses.json"	// path to file with responses templates
+	}
+}
